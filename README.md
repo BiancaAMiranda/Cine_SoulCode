@@ -1,5 +1,6 @@
 # Cine_SoulCode
 website with a catalog of movies of various categories with a layout inspired by streaming service sites
+https://biancaamiranda.github.io/Cine_SoulCode/
 ![Captura de tela de 2021-06-18 16-20-36](https://user-images.githubusercontent.com/78173189/122612901-4f3d8d00-d05a-11eb-9f30-91322867d683.png)
 ![Captura de tela de 2021-06-18 16-21-04](https://user-images.githubusercontent.com/78173189/122612902-506eba00-d05a-11eb-90e2-f187ca3aa1f5.png)
 ![Captura de tela de 2021-06-18 16-21-13](https://user-images.githubusercontent.com/78173189/122612903-51075080-d05a-11eb-947c-ae6da3d69470.png)
